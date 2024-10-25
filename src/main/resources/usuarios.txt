@@ -1,0 +1,6 @@
+i202212392;jorgetorres;Jorge Torres Mora;jorget@gmail.com
+i202215563;luispalacios;Luis Palacios Sernaque;luisjavier@gmail.com
+i201911440;jeilervargas;Jeiler Alexander Vargas;jeilervargas@gmail.com
+i202211249;josealvarado;Jose Alvarado Beteta;josealvar@gmail.com
+i201820975;niltonmancha;Nilton Mancha Cardenas;niltonmancha@gmail.com
+i202118219;raulflores;Raul Flores Pérez;raulf@gmail.com
